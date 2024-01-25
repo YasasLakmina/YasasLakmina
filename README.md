@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasas Lakmina </h1>
-<h3 align="center">Transforming Thoughts into Code Realities Rooted in Sri Lanka 🌱</h3>
+<h3 align="center">Transforming Thoughts into Code Realities... Rooted in Sri Lanka 🌱</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yasaslakmina&label=Profile%20views&color=0e75b6&style=flat" alt="yasaslakmina" /> </p>
 
