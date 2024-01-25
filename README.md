@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **about React js, Node js, Express js & Mongo DB**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Java,Javascript,OOP**
 
