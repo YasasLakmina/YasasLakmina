@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **MERN**
 
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+
 - 💬 Ask me about **Java,Javascript,OOP**
 
 - 📫 How to reach me **yasaslakmina@gmail.com**
