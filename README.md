@@ -43,8 +43,8 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YasasLakmina&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" width="50%" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasasLakmina&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="YasasLakmina "  width="45%" height="300px"/>
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YasasLakmina&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" width="55%" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasasLakmina&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="YasasLakmina "  width="44%" height="300px"/>
 <br/>
 
 </details>
