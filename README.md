@@ -3,14 +3,24 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yasaslakmina&label=Profile%20views&color=0e75b6&style=flat" alt="yasaslakmina" /> </p>
 
----
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 - 🌱 I’m currently learning **about React js, Node js, Express js & Mongo DB**
 
 - 💬 Ask me about **Java,Javascript,OOP**
 
 - 📫 How to reach me **yasaslakmina@gmail.com**
+</td>
+<td width="50%" align="center">
 
+  <img align="center" width="50%" alt="Coding" width="450" src="https://media4.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=ecf05e47g2n8r704d1xqw2u17ak17ciy528the7rwes2k0wn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+  
+  </td>
+</tr>
+</table>
 ---
 
 <h3 align="center">My Statistics:</h3>
