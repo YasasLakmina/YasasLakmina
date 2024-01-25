@@ -44,7 +44,7 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YasasLakmina&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasasLakmina&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasasLakmina&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="YasasLakmina "  width="40%" height="300px"/>
 <br/>
 
 </details>
@@ -55,7 +55,7 @@
 
 
 	
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasasLakmina&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+<p align="center"><img align="center" width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=YasasLakmina&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)"></p>
  
 </details>
 
