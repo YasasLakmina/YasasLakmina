@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yasaslakmina&label=Profile%20views&color=0e75b6&style=flat" alt="yasaslakmina" /> </p>
 
 <table align="center">
-<tr border="none">
+<tr border="none"> 
 <td width="50%" align="left">
 
 - 🌱 I’m currently learning **MERN**
