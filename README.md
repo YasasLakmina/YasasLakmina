@@ -3,7 +3,7 @@
 
 <h3 align="center">Transforming Thoughts into Code Realities... Rooted in Sri Lanka 🌱</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YasasLakmina&label=Profile%20views&color=0e75b6&style=flat" alt="yasaslakmina" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yasaslakmina&label=Profile%20views&color=0e75b6&style=flat" alt="yasaslakmina" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -34,7 +34,7 @@
 <h3 > 🔥 Streak Stats</h3>
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YasasLakmina&theme=tokyonight_duo" alt="YasasLakmina" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasaslakmina&theme=tokyonight_duo" alt="YasasLakmina" /></p>
 
 </details>
 
@@ -44,8 +44,8 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YasasLakmina&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" width="55%" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasasLakmina&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="YasasLakmina "  width="44%" height="300px"/>
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yasaslakmina&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" width="55%" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasaslakmina&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="YasasLakmina "  width="44%" height="300px"/>
 <br/>
 
 </details>
