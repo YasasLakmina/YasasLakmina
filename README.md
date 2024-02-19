@@ -3,7 +3,7 @@
 
 <h3 align="center">Transforming Thoughts into Code Realities... Rooted in Sri Lanka 🌱</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yasaslakmina&label=Profile%20views&color=0e75b6&style=flat" alt="yasaslakmina" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YasasLakmina&label=Profile%20views&color=0e75b6&style=flat" alt="yasaslakmina" /> </p>
 
 <table align="center">
 <tr border="none"> 
