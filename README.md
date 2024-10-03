@@ -34,7 +34,7 @@
 <h3 > 🔥 Streak Stats</h3>
 
 
-<p width="55%" height="230px" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YasasLakmina&theme=tokyonight_duo" alt="YasasLakmina" /></p>
+<p width="55%" height="230px" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasaslakmina&theme=tokyonight_duo" alt="YasasLakmina" /></p>
 
 </details>
 
